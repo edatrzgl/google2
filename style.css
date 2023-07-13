@@ -1,0 +1,60 @@
+.header{
+    margin-left: 1260px;
+    margin-right: 8px;
+    margin-top: 0px;
+    
+}
+
+#gmail, #images{
+    margin-right: 3px;
+}
+
+.container{
+    text-align: center;
+    margin: 100px;
+}
+
+.input{
+    text-align: center;
+    margin-top: -77px;
+    width: 600px;
+    margin-left: 400px;
+}
+
+#searchb{
+    text-align: center;
+    margin-left: -5px;
+    margin-top: 7px;
+}
+
+input[type=text]{
+    width: 320px;
+    margin-left: 40px;
+}
+
+#buton1, #buton2{
+    width: 11.5%;
+}
+
+
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -20px;
+    line-height: 10px;
+}
+
+.footer1{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+
+}
